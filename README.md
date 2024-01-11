@@ -8,7 +8,7 @@ I'm passionate about using technology to solve real-world problems and to take a
 
 - **Bachelors in Computer Engineering**\
   Modern academy for Engineering and Technology
-  Egypt\ :U+1F1EA U+1F1EC:
+  Egypt\ 🇪🇬\
   
 - **Full-Stack Developer Course/cyper security**\
   Reboot01\Bahrain 🇧🇭\
@@ -45,6 +45,7 @@ King Hamad University hospital ... Kingdom of Bahrain 🇧🇭\
 Egypt Cement Company
 ● Design and develop a fully functioning website for the company using CodeIgniter
 as framework
+Egypt 🇪🇬
 
 ## 💼 Professionate Skills
 
@@ -56,7 +57,7 @@ as framework
 - Maintenance Pcs, laptops and printers (hardware/software)
 - Git & GitHub
 
-## 💼 Professional certificates
+## 📜 Professional certificates
 
 Software Engineering: Java programming, IBM web design, Data Science Engineer, APEXoracle
 Engineering: CCNA, Ethical hacker (self-study)
@@ -73,9 +74,9 @@ IT: MCSA, CCTV (self-study)
   
 # My stats so far
 
-[![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akhaled01/akhaled01/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
