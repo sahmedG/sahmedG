@@ -8,7 +8,7 @@ I'm passionate about using technology to solve real-world problems and to take a
 
 - **Bachelors in Computer Engineering**\
   Modern academy for Engineering and Technology
-  Egypt\ ![image](https://cdn.countryflags.com/thumbs/egypt/flag-waving-250.png)
+  Egypt\ :U+1F1EA U+1F1EC:
   
 - **Full-Stack Developer Course/cyper security**\
   Reboot01\Bahrain 🇧🇭\
