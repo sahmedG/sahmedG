@@ -59,9 +59,9 @@ Egypt 🇪🇬
 
 ## 📜 Professional certificates
 
-Software Engineering: Java programming, IBM web design, Data Science Engineer, APEXoracle
-Engineering: CCNA, Ethical hacker (self-study)
-IT: MCSA, CCTV (self-study)
+- Software Engineering: Java programming, IBM web design, Data Science Engineer, APEXoracle
+- Engineering: CCNA, Ethical hacker (self-study)
+- IT: MCSA, CCTV (self-study)
 
 ## 🌍 Languages
 
