@@ -1,4 +1,4 @@
-# sahmedG
+# Eng. Sameer Goumaa
 
 Hello! My name is Sameer Tharwat Ahmed, I'm a computer Engineering graduate 2011 with GPA 83% ranked top 4th in my class.
 
@@ -74,13 +74,14 @@ Egypt 🇪🇬
 - [HTB](https://app.hackthebox.com/profile/1747462)
 - [codewars](https://www.codewars.com/users/SameerGoumaa)
   
-# My stats so far
+# 📊 GitHub Stats:
 
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sahmedG/sahmedG/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](profile-3d-contrib/profile-night-rainbow.svg)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📚 Repositories
 
