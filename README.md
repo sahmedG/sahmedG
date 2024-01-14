@@ -76,11 +76,11 @@ Egypt 🇪🇬
   
 # 📊 GitHub Stats:
 
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sahmedG/sahmedG/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahmedG&theme=dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📚 Repositories
