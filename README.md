@@ -76,11 +76,11 @@ Egypt 🇪🇬
   
 # 📊 GitHub Stats:
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahmedG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahmedG&theme=dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://sahmed-g2.vercel.app/api/cards/profile-details?username=sahmedG&theme=default)
+![](http://sahmed-g2.vercel.app/api/cards/repos-per-language?username=sahmedG&theme=default)
+![](http://sahmed-g2.vercel.app/api/cards/most-commit-language?username=sahmedG&theme=default)
+![](http://sahmed-g2.vercel.app/api/cards/stats?username=sahmedG&theme=default)
+![](http://sahmed-g2.vercel.app/api/cards/productive-time?username=sahmedG&theme=default&utcOffset=8)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📚 Repositories
