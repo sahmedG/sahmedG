@@ -1,4 +1,7 @@
 ![Header](./github-header-image.jpg)
+<div style="text-align: center;">
+    <img src="./github-header-image.jpg" alt="Header" width="800" height="400">
+</div>
 
 Hello! My name is Sameer Tharwat Ahmed, I'm a computer Engineering graduate 2011 with GPA 83% ranked top 4th in my class.
 
