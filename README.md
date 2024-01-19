@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p style="text-align: center;">
     <img src="./github-header-image.jpg" alt="Header">
-</div>
+</p>
 
 Hello! My name is Sameer Tharwat Ahmed, I'm a computer Engineering graduate 2011 with GPA 83% ranked top 4th in my class.
 
