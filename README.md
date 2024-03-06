@@ -77,9 +77,10 @@ Egypt 🇪🇬
 - [codewars](https://www.codewars.com/users/SameerGoumaa)
   
 # 📊 GitHub Stats:
+http://github-profile-summary-cards.vercel.app
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmedG&theme=nightowl)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahmedG&theme=nightowl&exclude={exclude})
-![](http://sahmed-g2.vercel.app/api/cards/profile-details?username=sahmedG&theme=nightowl)
+[http://sahmed-g2.vercel.app](http://github-profile-summary-cards.vercel.app)
 ![](http://sahmed-g2.vercel.app/api/cards/repos-per-language?username=sahmedG&theme=nightowl)
 ![](http://sahmed-g2.vercel.app/api/cards/most-commit-language?username=sahmedG&theme=nightowl)
 ![](http://sahmed-g2.vercel.app/api/cards/stats?username=sahmedG&theme=nightowl)
